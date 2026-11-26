@@ -9,10 +9,13 @@ We publish what we build along the way. Our code is free under Apache-2.0.
 
 | Repo | What it does |
 | --- | --- |
-| [contractor-crm-adapters](https://github.com/GoodHand-Off/contractor-crm-adapters) | JobNimbus API and AccuLynx API clients for Node.js and TypeScript |
+| [contractor-crm-adapters](https://github.com/GoodHand-Off/contractor-crm-adapters) | JobNimbus, AccuLynx and Housecall Pro API clients for Node.js and TypeScript |
 | [ai-sales-roleplay](https://github.com/GoodHand-Off/ai-sales-roleplay) | Practice in-home sales calls out loud with a voice AI homeowner who pushes back, then get a scorecard |
 | [realtime-voice-guard](https://github.com/GoodHand-Off/realtime-voice-guard) | Time and spend limits for OpenAI Realtime API calls |
 | [narrated-video-kit](https://github.com/GoodHand-Off/narrated-video-kit) | Narrated explainer videos in code with Remotion and ElevenLabs |
+
+What each one is for, in an owner's words rather than a developer's, is on our
+[About page](https://goodhandoff.com/about?utm_source=github&utm_medium=org-profile&utm_campaign=goodhandoff&utm_content=about#open-source).
 
 The code is free. The handoff is the work.
 
